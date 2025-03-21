@@ -1,0 +1,19 @@
+site_name: VMSLAB DOCUMENTATION
+copyright: Copyright &copy; 2024 - 2025 Vidjinnangni Grégory Thoto
+
+repo_url: https://github.com/vidjinnangni/vmslab
+
+theme:
+  favicon: 
+  name: material
+  palette:
+    primary: deep purple
+    accent: deep purple
+  font:
+    text: 'Nunito'
+    code: 'Nunito'
+
+
+markdown_extensions:
+  - pymdownx.snippets
+  
