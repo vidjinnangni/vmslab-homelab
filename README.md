@@ -1,7 +1,6 @@
 # My Homelab Setup : VMSLAB
 My Homelab documentation files, stacks and resources! 
 
-[![GitHub Tag](https://img.shields.io/github/v/tag/vidjinnangni/vmslab?style=flat-square&logo=semver&logoColor=purple&labelColor=%23F5F5F5&color=purple)](https://github.com/vidjinnangni/vmslab/tags)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdocs.vmslab.work&logo=gitbook&logoColor=black&label=document&labelColor=%23F5F5F5)](https://docs.vmslab.work)
 [![License: CC BY 4.0](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=purple&labelColor=F5F5F5)](https://creativecommons.org/licenses/by/4.0/)
 
