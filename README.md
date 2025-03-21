@@ -1,5 +1,5 @@
 # My Homelab Setup : VMSLAB
-My Homelab documentation files, stacks and resources! 
+**Homelab Journal:** an open notebook where I share my journey, lessons learned, and useful resources around self-hosting. Hopefully helpful for fellow beginners! 
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdocs.vmslab.work&logo=gitbook&logoColor=black&label=document&labelColor=%23F5F5F5)](https://docs.vmslab.work)
 [![License: CC BY 4.0](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=purple&labelColor=F5F5F5)](https://creativecommons.org/licenses/by/4.0/)
@@ -19,6 +19,7 @@ VMSLAB/
 - **[Apps](./Apps/)**
 - **[Proxy](./Proxy/)**
 - **[Roadmap](./Roadmap/)**
+- **[Resources](./Resources/)**
 
 ## Hardware
 ![Homelab Structure](./Images/homelab.png)
@@ -40,7 +41,7 @@ Current Setup:
 - **Internet Connection:** Starlink Standard (motorized kit) providing global satellite-based broadband access.
 - **Router:** Starlink Router, handling NAT, DHCP, and firewall rules.
 - **Main Server Connection:** Connected via Ethernet for stable performance and minimal latency.
-- **LAN Devices:** Various client devices (laptops, smartphones, tablets) connect via Wi-Fi, accessing services hosted on the Dell Latitude E5470.
+- **LAN Devices:** Various client devices (laptops, smartphones, tablets) connect via Wi-Fi, accessing services hosted on the Dell OptiPlex 7050.
 - **Subnet Structure:** Default Starlink private IP allocation with a standard 192.168.x.x addressing scheme.
 
 **Future Plans:** Implementation of VLANs, more advanced firewall rules, and possibly a dedicated router/firewall solution (e.g., pfSense or OPNsense) for better control and security.
