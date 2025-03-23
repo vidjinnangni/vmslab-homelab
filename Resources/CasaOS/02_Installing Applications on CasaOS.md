@@ -76,14 +76,14 @@ Use Portainer if:
 - You want to explore the full power of Docker while staying in GUI land
 
 ### Example: Deploying Whoogle via Portainer
-1. Access Portainer (http://[IP]:9000)
+1. Access Portainer (`http://192.168.1.X:9000`)
 2. Go to Containers > Add container
 3. Set name: whoogle
 4. Image: benbusby/whoogle-search
 5. Map port 5000:5000
 6. Deploy container
 
-The app will be available at http://[IP]:5000
+The app will be available at `http://192.168.1.X:5000`
 
 >**⚠️ Note:**
 

@@ -36,7 +36,7 @@ CasaOS is built on top of Linux (Ubuntu/Debian) and provides a friendly GUI to i
 Run the following command in your terminal:
 
 ```bash
-curl -fsSL https://get.casaos.io | bash
+curl -fsSL https://get.casaos.io | sudo bash
 ```
 
 This script will install Docker and all required dependencies, and then set up CasaOS.

@@ -1,14 +1,14 @@
 site_name: VMSLAB HOMELAB NOTES
 site_url: https://docs.vmslab.com
 copyright: Copyright &copy; 2024 - 2025 Vidjinnangni Grégory Thoto
+
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/vidjinnangni/vmslab-homelab
     - icon: fontawesome/solid/paper-plane
       link: mailto:<gregory.thoto@gmail.com>
-
-
+      
 repo_url: https://github.com/vidjinnangni/vmslab-homelab
 
 theme:
@@ -25,7 +25,9 @@ theme:
   features:
     - navigation.top
     - navigation.footer
-
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
 
 markdown_extensions:
   - pymdownx.snippets:
