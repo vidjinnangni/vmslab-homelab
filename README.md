@@ -14,6 +14,7 @@ VMSLAB/
 ├── Images/         # Diagrams, screenshots, and visual assets
 ├── Proxy/          # Reverse proxy
 ├── Roadmap/        # Future plans and development roadmap
+├── Resources/      # Resources for Homelabing
 └── README.md       # Project documentation
 ```
 - **[Apps](./Apps/)**

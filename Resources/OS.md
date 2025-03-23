@@ -50,7 +50,7 @@ Setting up a **homelab** starts with choosing the right **operating system (OS)*
 
 🚀 **Best For:** Users who want an **out-of-the-box cloud homelab solution**.
 
-🔗 [ZimaOS](https://www.zimaos.com/)
+🔗 [ZimaOS](https://www.zimaspace.com/docs/zimaos/)
 
 ---
 
