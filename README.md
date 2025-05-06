@@ -79,6 +79,7 @@ I’ve structured the setup to focus primarily on **lightweight, containerized s
 | **Proxmox Host** | Main virtualization server  |                 |
 | **Boot drive** | 256GB SSD  |                 |
 | **Storage**       | External USB HDD (4TB)     | /mnt/storage      |
+
 The Proxmox host runs on a dedicated machine with a 256 GB SSD for the OS and LXC root filesystems, while larger data and container volumes are mounted from external USB drives.
 
 ### 📦 LXC Containers
